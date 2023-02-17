@@ -1,0 +1,446 @@
+{
+	"song": {
+		"events": [
+			[
+				5335,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Fade Game Camera",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				10668,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				31835,
+				[
+					[
+						"Zoom Frequency",
+						"99",
+						""
+					]
+				]
+			],
+			[
+				33335,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33668,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33835,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34001,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34085,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34168,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34335,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34501,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34668,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				56002,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Fade Eteled BG",
+						"0.5",
+						"1"
+					]
+				]
+			],
+			[
+				77335,
+				[
+					[
+						"Fade Eteled BG",
+						"0.1",
+						"1"
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				88001,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				98501,
+				[
+					[
+						"Zoom Frequency",
+						"100",
+						""
+					]
+				]
+			],
+			[
+				98668,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				100001,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100335,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100501,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100668,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100751,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100835,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101001,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101168,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101335,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Fade Eteled BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				122668,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					],
+					[
+						"Fade Eteled BG",
+						"0.5",
+						"1"
+					]
+				]
+			],
+			[
+				133335,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Fade Eteled BG",
+						"0.1",
+						"1"
+					]
+				]
+			],
+			[
+				144001,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Fade Eteled BG",
+						"0",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"999",
+						""
+					]
+				]
+			],
+			[
+				148001,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148335,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148501,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148668,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148751,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148835,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				149001,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				149168,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

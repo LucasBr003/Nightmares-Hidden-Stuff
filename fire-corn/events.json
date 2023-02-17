@@ -1,0 +1,441 @@
+{
+	"song": {
+		"events": [
+			[
+				1,
+				[
+					[
+						"Smooth Zoom",
+						"0.4",
+						"16"
+					],
+					[
+						"Fade Game Camera",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				1601,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12801,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				14401,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				25601,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				27201,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				38401,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				40001,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				51201,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				52801,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				54001,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				54401,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					]
+				]
+			],
+			[
+				57201,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				57601,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					]
+				]
+			],
+			[
+				59201,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				60401,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				60801,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					]
+				]
+			],
+			[
+				63601,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.2"
+					]
+				]
+			],
+			[
+				64001,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					],
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				65601,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				76801,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				78401,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				89601,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				91201,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				96001,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				97601,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				102401,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				104001,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					]
+				]
+			],
+			[
+				115201,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				116801,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				128001,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				129601,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					]
+				]
+			],
+			[
+				140801,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				142401,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				153601,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"16"
+					]
+				]
+			],
+			[
+				155201,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"999",
+						""
+					],
+					[
+						"Set Corn Properties",
+						"-999",
+						""
+					]
+				]
+			],
+			[
+				158401,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				158501,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				158601,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,486 @@
+{
+	"song": {
+		"events": [
+			[
+				1,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				547,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2001,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3456,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4911,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				6365,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				7820,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				9274,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10729,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12183,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13638,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15092,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16547,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18001,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19456,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20911,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22365,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23274,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				24729,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				48002,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					],
+					[
+						"Static Part",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71274,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Static Part",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94547,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				117820,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				118365,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119820,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121274,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				122729,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124183,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				125638,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127092,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128547,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130002,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131456,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132911,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				134365,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135820,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137274,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				138729,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139638,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				141092,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"2"
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Zoom Frequency",
+						"9999",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.1"
+					]
+				]
+			]
+		]
+	}
+}

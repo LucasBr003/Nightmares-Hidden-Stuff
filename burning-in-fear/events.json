@@ -1,0 +1,606 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Smooth Zoom",
+						"0.3",
+						"128"
+					]
+				]
+			],
+			[
+				11295,
+				[
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Fade Mall Tree",
+						"1",
+						"1"
+					],
+					[
+						"Fade HUD Camera",
+						"1",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.1"
+					]
+				]
+			],
+			[
+				33176.4705882353,
+				[
+					[
+						"Fade HUD Camera",
+						"0",
+						"0"
+					],
+					[
+						"Fade Game Camera",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				33220.5882352941,
+				[
+					[
+						"Fade Game Camera",
+						"1",
+						"0"
+					],
+					[
+						"Fade HUD Camera",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				33352.9411764706,
+				[
+					[
+						"Fade Game Camera",
+						"0",
+						"0"
+					],
+					[
+						"Fade HUD Camera",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				33397.0588235294,
+				[
+					[
+						"Fade HUD Camera",
+						"1",
+						"0"
+					],
+					[
+						"Fade Game Camera",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				33441.1764705882,
+				[
+					[
+						"Fade Game Camera",
+						"0",
+						"0"
+					],
+					[
+						"Fade HUD Camera",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				33485.2941176471,
+				[
+					[
+						"Fade HUD Camera",
+						"1",
+						"0"
+					],
+					[
+						"Fade Game Camera",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				33529.4117647059,
+				[
+					[
+						"Fade Game Camera",
+						"0",
+						"0"
+					],
+					[
+						"Fade HUD Camera",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				33573.5294117647,
+				[
+					[
+						"Fade Game Camera",
+						"1",
+						"0"
+					],
+					[
+						"Fade HUD Camera",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				33882.3529411765,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Movie Camera",
+						"0",
+						"linear"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.1"
+					],
+					[
+						"Raise Fire",
+						"True",
+						"0"
+					],
+					[
+						"Middle Scroll",
+						"2",
+						"quintOut"
+					]
+				]
+			],
+			[
+				47470.5882352941,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48882.3529411764,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50470.5882352941,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52235.294117647,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53647.0588235294,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55058.8235294117,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55764.7058823529,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69882.3529411764,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70588.2352941176,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71999.9999999999,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73411.7647058823,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74999.9999999999,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76235.294117647,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77647.0588235293,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78352.9411764705,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79058.8235294117,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				101649,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Raise Fire",
+						"False",
+						"0"
+					],
+					[
+						"Fade Mall BG",
+						"0",
+						"0"
+					],
+					[
+						"Fade Mall Tree",
+						"0",
+						"0"
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.1"
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Middle Scroll",
+						"2",
+						"quintOut"
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.1"
+					],
+					[
+						"Fade Mall Tree",
+						"1",
+						"0"
+					],
+					[
+						"Fade Mall BG",
+						"0.2",
+						"0"
+					],
+					[
+						"Raise Fire",
+						"True",
+						"0"
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Movie Camera",
+						"0",
+						"linear"
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Middle Scroll",
+						"2",
+						"quintOut"
+					]
+				]
+			],
+			[
+				130058.823529412,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131294.117647059,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132705.882352941,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				134119,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Raise Fire",
+						"False",
+						"1"
+					],
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135176.470588235,
+				[
+					[
+						"BF Shoot",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135529.411764706,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.1"
+					],
+					[
+						"Raise Fire",
+						"True",
+						"0"
+					]
+				]
+			],
+			[
+				146825,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Fade Mall BG",
+						"0",
+						"0"
+					],
+					[
+						"Fade Mall Tree",
+						"0",
+						"0"
+					],
+					[
+						"Raise Fire",
+						"False",
+						"0"
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Smooth Zoom",
+						"0.3",
+						"128"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.1"
+					],
+					[
+						"Middle Scroll",
+						"2",
+						"quintOut"
+					]
+				]
+			],
+			[
+				167823.529411764,
+				[
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,361 @@
+{
+	"song": {
+		"events": [
+			[
+				1,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0.1"
+					]
+				]
+			],
+			[
+				16801,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"32"
+					]
+				]
+			],
+			[
+				18001,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				19201,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Raise Fire",
+						"True",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"boyfriend-cyan"
+					],
+					[
+						"Middle Scroll",
+						"1.5",
+						"quintOut"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				36001,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"32"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				37201,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				38401,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				55201,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"32"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				56401,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				57601,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Middle Scroll",
+						"1.5",
+						"quintOut"
+					],
+					[
+						"Raise Fire",
+						"False",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"boyfriend-blue"
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.5"
+					]
+				]
+			],
+			[
+				74401,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"32"
+					]
+				]
+			],
+			[
+				75601,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				76801,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Middle Scroll",
+						"1.5",
+						"quintOut"
+					],
+					[
+						"Raise Fire",
+						"True",
+						"0.1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"boyfriend-cyan"
+					],
+					[
+						"Movie Camera",
+						"2",
+						"quintOut"
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				93601,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"32"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				94801,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				96001,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					],
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					]
+				]
+			],
+			[
+				112801,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"32"
+					]
+				]
+			],
+			[
+				115201,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"1"
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				122401,
+				[
+					[
+						"Smooth Zoom",
+						"0.25",
+						"32"
+					]
+				]
+			],
+			[
+				124801,
+				[
+					[
+						"Camera Flash (HUD)",
+						"FFFFFF",
+						"2"
+					],
+					[
+						"Raise Fire",
+						"False",
+						"4"
+					],
+					[
+						"Change Character",
+						"bf",
+						"boyfriend-blue"
+					],
+					[
+						"Zoom Frequency",
+						"9999",
+						""
+					]
+				]
+			],
+			[
+				129376,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				129751,
+				[
+					[
+						"Zoom Frequency",
+						"400",
+						""
+					]
+				]
+			]
+		]
+	}
+}
